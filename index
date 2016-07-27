@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<HEAD>
+	<meta charset="utf-8">
+
+	<title> Hello </title>
+	<meta name="descript" content="test">
+	<meta name="author" content="SitePoint">
+
+	<link rel="stylesheet" href="ccs/styles.css?v=1.0">
+
+</HEAD>
+
+<body>
+	<script src="js/scripts.js"></script>
+</body>
+
+</html>
